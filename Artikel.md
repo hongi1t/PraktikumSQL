@@ -7,7 +7,7 @@ Berikut adalah langkah-langkah pengerjaan praktikum disertai dengan hasil screen
 1. Pertama, buat beberapa table pada script dan masukkan data sesuai dengan yang diminta
 <br>Kode dan hasil sebagai berikut:
 
-![Gambar](../Fol%201/Gambar/Screenshot%20(169).png)
+![Gambar](../Screenshot(169).png)
 
 2. Untuk menampilkan semua nama nama mahasiswa beserta nama departemen mahasiswa tersebut, dapat menggunakan 
  ```
