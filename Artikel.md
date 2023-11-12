@@ -7,7 +7,7 @@ Berikut adalah langkah-langkah pengerjaan praktikum disertai dengan hasil screen
 1. Pertama, buat beberapa table pada script dan masukkan data sesuai dengan yang diminta
 <br>Kode dan hasil sebagai berikut:
 
-![Gambar](../Screenshot(169).png)
+![Gambar](https://github.com/hongi1t/PraktikumSQL/blob/main/Screenshot%20(169).png)
 
 2. Untuk menampilkan semua nama nama mahasiswa beserta nama departemen mahasiswa tersebut, dapat menggunakan 
  ```
@@ -17,7 +17,7 @@ Berikut adalah langkah-langkah pengerjaan praktikum disertai dengan hasil screen
  ``` 
 <br>Kode dan hasil sebagai berikut:
 
-![Gambar](../Fol%201/Gambar/Screenshot%20(170).png)
+![Gambar](https://github.com/hongi1t/PraktikumSQL/blob/main/Screenshot%20(170).png)
 
 3. Untuk menampilkan semua nama student beserta nama department yang memiliki total SKS
 (total credit) lebih dari 100 dapat menggunakan
@@ -29,7 +29,7 @@ Berikut adalah langkah-langkah pengerjaan praktikum disertai dengan hasil screen
  ``` 
  <br>Kode dan hasil sebagai berikut:
 
-![Gambar](../Fol%201/Gambar/Screenshot%20(171).png)
+![Gambar](https://github.com/hongi1t/PraktikumSQL/blob/main/Screenshot%20(171).png) 
 
 3. Untuk menampilkan nama student dan nama instructor yang bekerja pada department yang
 sama
@@ -40,4 +40,4 @@ sama
  ``` 
  <br>Kode dan hasil sebagai berikut:
 
-![Gambar](../Fol%201/Gambar/Screenshot%20(172).png)
+![Gambar](https://github.com/hongi1t/PraktikumSQL/blob/main/Screenshot%20(172).png)
